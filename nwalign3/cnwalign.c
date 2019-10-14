@@ -390,7 +390,7 @@ struct __pyx_opt_args_7nwalign_8cnwalign_read_matrix {
 };
 
 #ifndef CYTHON_REFNANNY
-  #define CYTHON_REFNANNY 0
+  #define CYTHON_REFNANNY 1
 #endif
 
 #if CYTHON_REFNANNY
